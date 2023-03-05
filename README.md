@@ -10,7 +10,7 @@
 
 - [联合地球政府](https://uegov.world/) 🌐
 - [我自己拜托ChatGPT做的非常lite的高考倒计时](https://UnitedEarthGovernment.github.io/Countdown/Countdown.html) 🕒
-- [ChatGPT生成的自我介绍](https://UnitedEarthGovernment.github.io/Me.md)
+- [ChatGPT生成的自我介绍](https://UnitedEarthGovernment.github.io/Me.md) 📋
 
   
 
