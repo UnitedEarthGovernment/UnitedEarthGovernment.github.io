@@ -7,6 +7,8 @@
 ## 友情链接
 
 - [联合地球政府](https://uegov.world/) 🌐
+- [我自己拜托ChatGPT做的非常lite的高考倒计时](https://UnitedEarthGovernment.github.io/Countdown/Countdown.html) 🕒
+
   
 
 ## 最后，附上 ChatGPT 的官方标志
